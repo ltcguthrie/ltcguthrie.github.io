@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ltcguthrie.github.io/sitemap.xml
