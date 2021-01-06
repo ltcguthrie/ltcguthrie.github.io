@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Leah Guthrie</title>
+    <link>https://ltcguthrie.github.io/authors/</link>
+    <description>Recent content in Authors on Leah Guthrie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ltcguthrie.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leah Guthrie</title>
+      <link>https://ltcguthrie.github.io/authors/leah-guthrie/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltcguthrie.github.io/authors/leah-guthrie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Libusha Kelly</title>
+      <link>https://ltcguthrie.github.io/authors/libusha-kelly/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltcguthrie.github.io/authors/libusha-kelly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Wolfson</title>
+      <link>https://ltcguthrie.github.io/authors/sarah-wolfson/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltcguthrie.github.io/authors/sarah-wolfson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johanna Daily</title>
+      <link>https://ltcguthrie.github.io/authors/johanna-daily/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltcguthrie.github.io/authors/johanna-daily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanchit Gupta</title>
+      <link>https://ltcguthrie.github.io/authors/sanchit-gupta/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltcguthrie.github.io/authors/sanchit-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ltcguthrie.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltcguthrie.github.io/authors/admin/</guid>
+      <description>I am a postdoctoral researcher in Justin Sonnenburg’s lab at Stanford University. I use metagenomics, metabolomics and cheminformatics to gain enzyme level insight into microbial metabolism of foods and drugs and the functions of microbial metabolites.</description>
+    </item>
+    
+  </channel>
+</rss>

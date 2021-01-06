@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microbial metabolism on Leah Guthrie</title>
+    <link>https://ltcguthrie.github.io/tags/microbial-metabolism/</link>
+    <description>Recent content in microbial metabolism on Leah Guthrie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ltcguthrie.github.io/tags/microbial-metabolism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The human gut chemical landscape predicts microbe-mediated biotransformation of foods and drugs</title>
+      <link>https://ltcguthrie.github.io/publication/10-7554-e-life-42866/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ltcguthrie.github.io/publication/10-7554-e-life-42866/</guid>
+      <description>tags: - Source Themes featured: true
+Featured image To use, add an image named featured.jpg/png to your page&amp;rsquo;s folder. image: caption: &amp;lsquo;Image credit: &amp;lsquo; focal_point: &amp;ldquo;&amp;rdquo; preview_only: true</description>
+    </item>
+    
+  </channel>
+</rss>
