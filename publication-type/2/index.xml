@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Leah Guthrie</title>
+    <link>https://ltcguthrie.github.io/publication-type/2/</link>
+      <atom:link href="https://ltcguthrie.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ltcguthrie.github.io/media/icon_huded40674d5dd89b25aae90066bca22e4_122357_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://ltcguthrie.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Impact of a 7-day homogeneous diet on interpersonal variation in human gut microbiomes and metabolomes</title>
+      <link>https://ltcguthrie.github.io/publication/example/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ltcguthrie.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of a 7-day homogeneous diet on interpersonal variation in human gut microbiomes and metabolomes</title>
+      <link>https://ltcguthrie.github.io/publication/guthrie-2022-impact/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ltcguthrie.github.io/publication/guthrie-2022-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A metabolomics pipeline for the mechanistic interrogation of the gut microbiome</title>
+      <link>https://ltcguthrie.github.io/publication/han-2021-metabolomics/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ltcguthrie.github.io/publication/han-2021-metabolomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing microbiome-drug interaction research into the clinic</title>
+      <link>https://ltcguthrie.github.io/publication/guthrie-2019-bringing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ltcguthrie.github.io/publication/guthrie-2019-bringing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The human gut chemical landscape predicts microbe-mediated biotransformation of foods and drugs</title>
+      <link>https://ltcguthrie.github.io/publication/guthrie-2019-human/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ltcguthrie.github.io/publication/guthrie-2019-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human microbiome signatures of differential colorectal cancer drug metabolism</title>
+      <link>https://ltcguthrie.github.io/publication/guthrie-2017-human/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ltcguthrie.github.io/publication/guthrie-2017-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpaR controls a network of downstream transcription factors in Vibrio parahaemolyticus BB22OP</title>
+      <link>https://ltcguthrie.github.io/publication/kernell-2015-opar/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ltcguthrie.github.io/publication/kernell-2015-opar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure and inhibition of microbiome beta-glucuronidases essential to the alleviation of cancer drug toxicity</title>
+      <link>https://ltcguthrie.github.io/publication/wallace-2015-structure/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ltcguthrie.github.io/publication/wallace-2015-structure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
